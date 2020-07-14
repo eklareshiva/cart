@@ -1,0 +1,68 @@
+{
+    "MyCartingElements": [
+      {
+        "id": "01",
+        "Name": "Mobile",
+        "Category": "Samsung",
+        "Price": "10000",
+        "PhotoPath": "assets/samsung1.webp",
+        "AddtoCart": "AddtoCart"
+      },
+      {
+        "id": "02",
+        "Name": "Mobile",
+        "Category": "Nokia",
+        "Price": "15000",
+        "PhotoPath": "assets/samsung2.webp",
+        "AddtoCart": "AddtoCart"
+      },
+      {
+        "id": "03",
+        "Name": "Mobile",
+        "Category": "Mi",
+        "Price": "16000",
+        "PhotoPath": "assets/samsung3.jpg",
+        "AddtoCart": "AddtoCart"
+      },
+      {
+        "id": "04",
+        "Name": "Mobile",
+        "Category": "Apple",
+        "Price": "100000",
+        "PhotoPath": "assets/appple.webp",
+        "AddtoCart": "AddtoCart"
+      },
+      {
+        "id": "05",
+        "Name": "Mobile",
+        "Category": "Asus",
+        "Price": "16000",
+        "PhotoPath": "assets/samsung3.jpg",
+        "AddtoCart": "AddtoCart"
+      },
+      {
+        "id": "06",
+        "Name": "Mobile",
+        "Category": "Moto",
+        "Price": "12000",
+        "PhotoPath": "assets/samsung2.webp",
+        "AddtoCart": "AddtoCart"
+      },
+      {
+        "id": "07",
+        "Name": "Mobile",
+        "Category": "Moto",
+        "Price": "12000",
+        "PhotoPath": "assets/samsung1.webp",
+        "AddtoCart": "AddtoCart"
+      },
+      {
+        "id": "08",
+        "Name": "Mobile",
+        "Category": "Apple",
+        "Price": "120000",
+        "PhotoPath": "assets/appple.webp",
+        "AddtoCart": "AddtoCart"
+      }
+    ]
+  }

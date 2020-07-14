@@ -1,0 +1,88 @@
+.Header
+{
+    color: green;
+    background-color: black;
+    border-radius: 50px;
+    text-align: center;
+}
+.container
+{
+    background-color:gray;
+    height: 200px;
+    opacity: 0.8;
+    width:200px;
+    border-radius: 25px;
+    float: left;
+    margin: 10px;
+    text-align: center;
+    
+}
+.btn
+{
+    background-color:blueviolet;
+    color: white;
+    border-radius: 25px;
+    height: 20px;
+    width:100px;
+}
+table
+{
+border: black 1px solid;
+clear: both;
+}
+td
+{
+    border: black 1px solid; 
+}
+.save
+{
+    color: white;
+    background-color: teal;
+    width: 10%;
+    height: 10%;
+}
+
+/* th
+{
+color: coral;
+background-color: darkblue;
+} */
+tr:nth-child(odd)
+{
+    background-color: Lightgreen;
+}
+td:nth-child(even)
+{
+    background-color: lightpink;
+    
+    text-align:center;
+    
+}
+.divform
+{
+clear: both;
+}
+.divCart
+{
+    
+    background-color:gray;
+    height: 250px;
+    opacity: 0.8;
+    width:250px;
+    border-radius: 25px;
+    float: left;
+    margin: 10px;
+    text-align: center;
+}
+form
+{
+    padding-top: 30px;
+    padding-bottom: 30px;
+background-color: silver;
+border: black 1px solid;
+text-align: center;
+}
+.Error
+{
+    color: red;
+} 
